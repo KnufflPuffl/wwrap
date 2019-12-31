@@ -1,0 +1,331 @@
+@charset "utf-8";
+/* CSS Document */
+
+/* Wwrap - CSS Framework Library, for Responsive Webdesign */
+
+
+.w100 
+{
+	width:100%;
+	height:auto; 
+	position:relative;
+	float:left;	
+}
+
+
+.w90 
+{
+	width:90%;
+	height:auto; 
+	position:relative;
+	float:left;	
+}
+
+
+.w80 
+{
+	width:80%;
+	height:auto; 
+	position:relative;
+	float:left;	
+}
+
+
+.w70 
+{
+	width:70%;
+	height:auto; 
+	position:relative;
+	float:left;	
+}
+
+
+.w60 
+{
+	width:60%;
+	height:auto; 
+	position:relative;
+	float:left;	
+}
+
+
+.w50 
+{
+	width:50%;
+	height:auto; 
+	position:relative;
+	float:left;	
+}
+
+.w48 
+{
+	width:48%;
+	height:auto; 
+	position:relative;
+	float:left;	
+}
+
+
+.w45 
+{
+	width:45%;
+	height:auto; 
+	position:relative;
+	float:left;	
+}
+
+.w42 
+{
+	width:42%;
+	height:auto; 
+	position:relative;
+	float:left;	
+}
+
+
+.w40 
+{
+	width:40%;
+	height:auto; 
+	position:relative;
+	float:left;	
+}
+
+
+
+.w38 
+{
+	width:38%;
+	height:auto; 
+	position:relative;
+	float:left;	
+}
+
+
+.w36 
+{
+	width:36%;
+	height:auto; 
+	position:relative;
+	float:left;	
+}
+
+
+.w35 
+{
+	width:35%;
+	height:auto; 
+	position:relative;
+	float:left;	
+}
+
+
+.w32 
+{
+	width:32%;
+	height:auto; 
+	position:relative;
+	float:left;	
+}
+
+
+.w30 
+{
+	width:30%;
+	height:auto; 
+	position:relative;
+	float:left;	
+}
+
+
+.w28
+{
+	width:28%;
+	height:auto; 
+	position:relative;
+	float:left;	
+}
+
+
+.w25 
+{
+	width:25%;
+	height:auto; 
+	position:relative;
+	float:left;	
+}
+
+
+.w22 
+{
+	width:22%;
+	height:auto; 
+	position:relative;
+	float:left;	
+}
+
+
+.w20 
+{
+	width:20%;
+	height:auto; 
+	position:relative;
+	float:left;	
+}
+
+
+.w15 
+{
+	width:15%;
+	height:auto; 
+	position:relative;
+	float:left;	
+}
+
+
+.w10 
+{
+	width:10%;
+	height:auto; 
+	position:relative;
+	float:left;	
+}
+
+.w8 
+{
+	width:8%;
+	height:auto; 
+	position:relative;
+	float:left;	
+}
+
+.w5 
+{
+	width:5%;
+	height:auto; 
+	position:relative;
+	float:left;	
+}
+
+
+.w4
+{
+	width:4%;
+	height:auto; 
+	position:relative;
+	float:left;	
+}
+
+
+.w3
+{
+	width:3%;
+	height:auto; 
+	position:relative;
+	float:left;	
+}
+
+
+.w2
+{
+	width:2%;
+	height:auto; 
+	position:relative;
+	float:left;	
+}
+
+
+.ml10
+{
+	margin-left:10%;	
+}
+
+.mb0 
+{
+	margin-bottom:0px;	
+}
+
+
+.mt100 
+{
+	margin-top:100px;	
+}
+
+.mt50 
+{
+	margin-top:50px;	
+}
+
+.mt40 
+{
+	margin-top:40px;	
+}
+
+.mt30 
+{
+	margin-top:30px;	
+}
+
+.mt20 
+{
+	margin-top:20px;	
+}
+
+.mt10 
+{
+	margin-top:10px;	
+}
+
+.mt0
+{
+	margin-top:0px!important;	
+}
+
+
+.mb50
+{
+	margin-bottom:50px;
+}
+
+.ml5 
+{
+	margin-left:5%; 
+}
+
+.ml2 
+{
+	margin-left:2%; 
+}
+
+.ml1 
+{
+	margin-left:1%; 
+}
+
+.ml0 
+{
+	margin-left:0%!important; 
+}
+
+
+.fl
+{
+	float:left;
+}
+
+.fr
+{
+	float:right;	
+}
+
+
+.tcenter
+{
+	text-align:center;	
+}
+
+
+.cwhite 
+{
+	color:white;
+}
